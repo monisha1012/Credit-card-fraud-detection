@@ -1,1 +1,1 @@
-# Credit-card-fraud-detection
+# project-ml-fire-and-ice
